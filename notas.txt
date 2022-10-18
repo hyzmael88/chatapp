@@ -1,0 +1,3 @@
+Despues de instalar firebase va esto:
+npm i react-firebase-hooks
+npm i react-google-button
